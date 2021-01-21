@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: andrelohmann.prometheus_node_exporter
+  role_name: prometheus_node_exporter
   author: andrelohmann
   description: install prometheus node_exporter
   company: smartformer
