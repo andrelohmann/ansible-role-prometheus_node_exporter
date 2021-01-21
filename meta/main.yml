@@ -1,0 +1,23 @@
+---
+galaxy_info:
+  role_name: andrelohmann.prometheus_node_exporter
+  author: andrelohmann
+  description: install prometheus node_exporter
+  company: smartformer
+
+  license: MIT
+
+  min_ansible_version: 2.7
+
+  platforms:
+    - name: Ubuntu
+      versions:
+      - bionic
+      - focal
+
+  galaxy_tags:
+  - prometheus
+  - node_exporter
+
+dependencies: []
+...
